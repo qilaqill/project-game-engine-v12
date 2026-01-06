@@ -76,7 +76,7 @@ int main() {
     fxJump = LoadSound("jump.mp3");
     fxShoot = LoadSound("shoot.mp3");
     bgmMusic = LoadMusicStream("bgm.mp3");
-    //contoh
+    //contoh ll
     PlayMusicStream(bgmMusic);
     SetMusicVolume(bgmMusic, 0.5f);
 
